@@ -14,7 +14,7 @@
     text-align: center;
     position: relative; left: 50%; transform: translateX(-50%); 
 }
-#pizzaimg {
+#cakeimg {
     position: relative; left: 50%; transform: translateX(-50%); 
     border: 4px solid;
     border-color: wheat;
@@ -41,6 +41,6 @@
 }
 .stepy {
     margin: auto;
-    width:70%;
+    width:65%;
     position: relative; left: 50%; transform: translateX(-50%); 
 } 
